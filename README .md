@@ -53,7 +53,7 @@ The final Power BI report has **3 main dashboard views**:
 
 | Sales Overview | Sales by Customer | Sales by Product | Data Model |
 |----------------|-------------------|------------------|-------------|
-| ![Overview](images/adventure_works_1.png) | ![Customer](images/adventure_works_2.png) | ![Product](images/adventure_works_3.png) | ![Model](images/data_model.png) |
+| ![Overview](images/overview.jpg) | ![Customer](images/customer_reigon.jpg) | ![Product](images/product_insights.jpg) | ![Model](images/flow.jpg) |
 
 ---
 
@@ -61,10 +61,10 @@ The final Power BI report has **3 main dashboard views**:
 
 ```
 ├── images/
-│   ├── adventure_works_1.png
-│   ├── adventure_works_2.png
-│   ├── adventure_works_3.png
-│   └── data_model.png
+│   ├── overview.jpg
+│   ├── customer_reigon.jpg
+│   ├── product_insights.jpg
+│   └── flow.jpg
 ├── LICENSE
 ├── README.md
 ├── portfolio_1-project-analysis.sql
